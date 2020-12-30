@@ -20,5 +20,4 @@ So far, the parts that are missing are :
   * Login page
   * Unit tests
   
-  
-  ![alt text](https://https://github.com/JulesRive/RiveApp4A/tree/master/img/screen_readme.jpg?raw=true)
+![screen_readme](https://user-images.githubusercontent.com/58086596/103384133-8ee8da80-4af5-11eb-951b-6af2179f0874.jpg)

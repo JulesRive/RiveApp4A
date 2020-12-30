@@ -21,4 +21,4 @@ So far, the parts that are missing are :
   * Unit tests
   
   
-  ![alt text](https://github.com/[JulesRive]/[RiveApp4A]/blob/[master]/screen_readme.jpg?raw=true)
+  ![alt text](https://https://github.com/JulesRive/RiveApp4A/tree/master/img/screen_readme.jpg?raw=true)

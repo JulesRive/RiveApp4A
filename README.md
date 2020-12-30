@@ -20,6 +20,10 @@ So far, the parts that are missing are :
   * Login page
   * Unit tests
   
+Here we can see the architecture of the application ( MVVM and clean architecture) 
+
+![img_readme](https://user-images.githubusercontent.com/58086596/103384244-fdc63380-4af5-11eb-8402-1298dedd13a9.PNG)
+  
 Here is a screenshot taken on my Android device, showing the screen during the execution of the app.
 
 ![screen_readme](https://user-images.githubusercontent.com/58086596/103384199-d0798580-4af5-11eb-8804-5d2d46ea3c53.jpg)

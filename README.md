@@ -21,4 +21,4 @@ So far, the parts that are missing are :
   * Unit tests
   
   
-  ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+  ![alt text](https://github.com/[JulesRive]/[RiveApp4A]/blob/[master]/screen_readme.jpg?raw=true)

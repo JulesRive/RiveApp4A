@@ -20,4 +20,6 @@ So far, the parts that are missing are :
   * Login page
   * Unit tests
   
-![screen_readme](https://user-images.githubusercontent.com/58086596/103384133-8ee8da80-4af5-11eb-951b-6af2179f0874.jpg)
+Here is a screenshot taken on my Android device, showing the screen during the execution of the app.
+
+![screen_readme](https://user-images.githubusercontent.com/58086596/103384199-d0798580-4af5-11eb-8804-5d2d46ea3c53.jpg)
